@@ -39,3 +39,5 @@ class User {
 
 const user1 = new User("Steve", "Job", -1);
 console.log(user1.age);
+
+//public, private
